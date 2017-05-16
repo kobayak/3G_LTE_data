@@ -1,1 +1,0 @@
-Timestamp	Longitude	Latitude	Cell_Longitude	Cell_Latitude	Accuracy	Speed	Operatorname	Operator	CGI	Cellname	Node	CellID	LAC	NetworkTech	Level	Qual	SNR	CQI	LTERSSI	DL_bitrate	UL_bitrate	PSC	NLAC1	NCellid1	NRxLev1	NLAC2	NCellid2	NRxLev2	NLAC3	NCellid3	NRxLev3	NLAC4	NCellid4	NRxLev4	NLAC5	NCellid5	NRxLev5	NLAC6	NCellid6	NRxLev6
